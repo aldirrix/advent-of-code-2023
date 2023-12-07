@@ -1,3 +1,3 @@
-import { solve } from "./advent6";
+import { solve } from "./advent7";
 
 console.log(solve());
